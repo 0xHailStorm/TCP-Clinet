@@ -1,0 +1,8 @@
+C:\Users\RoRo\source\repos\TCP_Clinet\TCP_Clinet\bin\Debug\TCP_Clinet.exe.config
+C:\Users\RoRo\source\repos\TCP_Clinet\TCP_Clinet\bin\Debug\TCP_Clinet.exe
+C:\Users\RoRo\source\repos\TCP_Clinet\TCP_Clinet\bin\Debug\TCP_Clinet.pdb
+C:\Users\RoRo\source\repos\TCP_Clinet\TCP_Clinet\obj\Debug\TCP_Clinet.csproj.AssemblyReference.cache
+C:\Users\RoRo\source\repos\TCP_Clinet\TCP_Clinet\obj\Debug\TCP_Clinet.csproj.SuggestedBindingRedirects.cache
+C:\Users\RoRo\source\repos\TCP_Clinet\TCP_Clinet\obj\Debug\TCP_Clinet.csproj.CoreCompileInputs.cache
+C:\Users\RoRo\source\repos\TCP_Clinet\TCP_Clinet\obj\Debug\TCP_Clinet.exe
+C:\Users\RoRo\source\repos\TCP_Clinet\TCP_Clinet\obj\Debug\TCP_Clinet.pdb
