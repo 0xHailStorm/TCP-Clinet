@@ -149,11 +149,6 @@ namespace TCP_Clinet
                 Headers += $"Host: {host}\r\n";
 
             }
-            if (!Headers.Contains(""))
-            {
-                Headers += $"Host: {host}\r\n";
-
-            }
             if (Method == "POST")
             {
                 if (!Headers.Contains("Content-Length"))
